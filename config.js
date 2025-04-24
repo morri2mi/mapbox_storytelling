@@ -17,7 +17,7 @@ var config = {
     auto: false,
     title: 'Southern Literature Map',
     subtitle: 'Spatial Journeys across the South',
-    byline: 'Michelle M.',
+    byline: 'Michelle M.2 ',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
