@@ -1,7 +1,7 @@
 var config = {
-    style: 'mapbox://styles/burgerjh/cm98v4e0y001c01qn7swuc8m0',
+    style: 'mapbox://styles/morri2mi/cm98uuj6e002a01s8atzy6yzo',
     // leave commented to use Mapbox Standard Style
-    accessToken: 'pk.eyJ1IjoiYnVyZ2VyamgiLCJhIjoiY20yc3IyZXozMDBqdTJ2b3BpY3M3aWNqcCJ9.BRJ_B6H5_MYZ7Q_PBxcaQg',
+    accessToken: 'pk.eyJ1IjoibW9ycmkybWkiLCJhIjoiY205OG81MnowMDUyMTJqcTQ0cnBoNzN1OSJ9.RMKbQQLo8m35WL58FSmaeg',
     showMarkers: false,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
@@ -15,9 +15,9 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Color Purple Essay',
+    title: 'Southern Literature Map',
     subtitle: 'Spatial Journeys across the South',
-    byline: 'My Name',
+    byline: 'Michelle M.',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
