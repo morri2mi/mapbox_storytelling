@@ -17,7 +17,7 @@ var config = {
     auto: false,
     title: 'Economic Shifts of Women in the South'
     subtitle: 'Spatial Journeys across the South',
-    byline: 'Michelle M.',
+    byline: 'Michelle Morris',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
