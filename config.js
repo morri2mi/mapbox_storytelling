@@ -15,7 +15,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Economic Shifts of Women in the South',
+    title: 'Economic Shifts of Women over Time in Southern Literature',
     subtitle: 'Spatial Journeys across the South',
     byline: 'Michelle Morris',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
@@ -24,7 +24,7 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'The Color Purple',
+            title: 'Their Eyes Were Watching God (1937)',
             image: './assets/color_purple_cover.jpg',
             description: 'This is where I insert a description of the novel',
             location: {
@@ -54,7 +54,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'The Color Purple (1982)',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -79,7 +79,7 @@ var config = {
             id: 'chapter-two',
             alignment: 'left',
             hidden: false,
-            title: 'Olinka',
+            title: 'Shell Shaker (2001)',
             image: './assets/firestone_farm.jpg',
             description: 'Description of the Olinka people',
             location: {
@@ -98,7 +98,7 @@ var config = {
             id: 'chapter-three',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
+            title: 'Salvage the Bones (2011)',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
