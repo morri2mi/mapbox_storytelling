@@ -24,7 +24,7 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'Their Eyes Were Watching God (1937)',
+            title: 'Their Eyes Were Watching God (1932)',
             image: './assets/color_purple_cover.jpg',
             description: 'This is where I insert a description of the novel',
             location: {
