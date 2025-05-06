@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/morri2mi/cm98uuj6e002a01s8atzy6yzo',
+    style: 'mapbox://styles/morri2mi/cmacugtuw009701qu6mlh4jeb',
     // leave commented to use Mapbox Standard Style
     accessToken: 'pk.eyJ1IjoibW9ycmkybWkiLCJhIjoiY205OG81MnowMDUyMTJqcTQ0cnBoNzN1OSJ9.RMKbQQLo8m35WL58FSmaeg',
     showMarkers: false,
