@@ -56,7 +56,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple (1982)',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'The light teal color shows the areas where there was economic transactions, and the lighter green dots represent every purchase made by a women. Many of the econmic trasactions are centered around a certain point. There were three main locations in this book, Africa, with the Olinka, London, Misissippi, and Memphis. While each main location had multiple transactions of different kinds, London and Africa had the most amount of women purchasing things. While Misissippi had women purchasing things, it was not as much as the other two locations. Memphis is the one location where there is no women purchasing anything.',
+            description: 'The light teal color shows the areas where there was economic transactions, and the lighter green dots represent every purchase made by a women. Many of the econmic trasactions are centered around a certain point; Africa, with the Olinka, Misissippi, London, and Memphis. While each main location had multiple transactions of different kinds the transactions in London and Africa would have been made by someone who was in more control of her finances. Misissippi has a decent amount of women purchasing things, but that is where the women were under control by a man, and the money being spent could not even be theirs. Memphis has the least amount of transactions that happen by a women, but Memphis is also the place that did not force women to do things for a man in the story.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 6.5,
@@ -82,7 +82,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple (1982)',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Compared to the light green dots, the darker green ones are markers of where something has been purchased from someone. This grouping of data is much wider due to the fact that there was no women that were being bought from. All of the markers are either men or groups of people, which are still mainly men, that have been bought from.',
+            description: 'Compared to the light green dots, the darker green ones are markers of where something has been purchased from someone. This grouping of data is much wider due to the fact that there was no women that were being bought from. All of the markers are either men or groups of people, which are still mainly men, that have been bought from. An issue here with the way the data was collected is that there was no actual transaction that was happening, just a mention of Celie selling something.',
             location: {
                 center: [35.173171, 90.053264], 
                 zoom: 6.5,
@@ -107,7 +107,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple (1982)',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'general tie up',
+            description: 'This book is the oldest of the three that are being explored today. While this book had many different female characters that were able to purchase things, due to how many were in London and Africa meant that they were being made most likely by Nettie, who had a lot more economic freedom then Celie. The only time that Celie even had a bit of economic freedom was when she was living in Memphis with Shug, Grady, and Squeak, all of the other times she had the money to do something, it was Mr. Alberts. Walker chooses the time where Celie is not around any man that can have sway over her to give Celie the chance to have her own economic status. In the beginning Celie spends Shugs money, but it is different then when Celie was spending Mr. Alberts money or her fathers because she is spending the money for herself and her own enjoyment. With the money, she buys the supplies to sew the pants she has gotten so good at making. The pants that she sews are so good that when Celie mentions to shug about getting a job, instead of forcing her to work for someone else or telling her not to work at all; Shug tells Celie that shes going to "put a few advertisments in the paper... and give you this diningroom for your factory" (Walker 212). It is the first time in the book that it has been stated that a women will be working for herself and actually going out and selling her product. It gives Celie a strong economic standing for her time in Memphis and highlights the power that Celie has when she is not being forced to do things by a man.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
