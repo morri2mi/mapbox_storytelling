@@ -51,7 +51,7 @@ var config = {
             ]
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-one1',
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple (1982)',
@@ -77,14 +77,14 @@ var config = {
         },
 
         {
-            id: 'chapter-one',
+            id: 'chapter-one2',
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple (1982)',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Compared to the light green dots, the darker green ones are markers of where something has been purchased from someone. This grouping of data is much wider due to the fact that there was no women that were being bought from. All of the markers are either men or groups of people, which are still mainly men, that have been bought from.',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [35.173171, 90.053264], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
