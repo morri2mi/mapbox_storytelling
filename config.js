@@ -16,7 +16,7 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'Economic Shifts of Women over Time in Southern Literature',
-    subtitle: 'Spatial Journeys across the South',
+    subtitle: 'With Stories Written By Women',
     byline: 'Michelle Morris',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
@@ -24,9 +24,9 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'Their Eyes Were Watching God (1937)',
+            title: 'Introduction',
             image: './assets/color_purple_cover.jpg',
-            description: 'This is where I insert a description of the novel',
+            description: 'The genre of Southern Literature has been around for ages, and will continue to be an important part of literature for years to come. I will be exploring the concept of women and their economic status in southern literature and how it shifts over time due to when the books were published. The books that will be used to explore this are "The Color Purple" by Alice Walker, "Their Eyes were Watching God" by Zora Neale Hurston, and "Salvage the Bones" by Jesmin Ward. An important thing to note is that all of these books are written by women. As we get closer to modern day publications there will be a shift in womens economic status; as they will be able to purchase and sell things.',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -56,7 +56,133 @@ var config = {
             hidden: false,
             title: 'The Color Purple (1982)',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'maybe have this part talk about the women purchasing items',
+            location: {
+                center: [-83.5573651, 32.5573651], 
+                zoom: 6.5,
+                pitch: 60,
+                bearing: -43.2,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
+        {
+            id: 'chapter-one',
+            alignment: 'right',
+            hidden: false,
+            title: 'The Color Purple (1982)',
+            image: './assets/alice_walker_childhood_home.jpg',
+            description: 'slide 2: are there women being purchased from?',
+            location: {
+                center: [-83.5573651, 32.5573651], 
+                zoom: 6.5,
+                pitch: 60,
+                bearing: -43.2,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-one',
+            alignment: 'right',
+            hidden: false,
+            title: 'The Color Purple (1982)',
+            image: './assets/alice_walker_childhood_home.jpg',
+            description: 'general tie up',
+            location: {
+                center: [-83.5573651, 32.5573651], 
+                zoom: 6.5,
+                pitch: 60,
+                bearing: -43.2,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-one',
+            alignment: 'right',
+            hidden: false,
+            title: 'Their eyes were watching god',
+            image: './assets/alice_walker_childhood_home.jpg',
+            description: 'repeat previous order of things for new book',
+            location: {
+                center: [-83.5573651, 32.5573651], 
+                zoom: 6.5,
+                pitch: 60,
+                bearing: -43.2,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-one',
+            alignment: 'right',
+            hidden: false,
+            title: 'their eyes were watching god',
+            image: './assets/alice_walker_childhood_home.jpg',
+            description: 'repeat order of things',
+            location: {
+                center: [-83.5573651, 32.5573651], 
+                zoom: 6.5,
+                pitch: 60,
+                bearing: -43.2,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-one',
+            alignment: 'right',
+            hidden: false,
+            title: 'Theit eyes were watching god',
+            image: './assets/alice_walker_childhood_home.jpg',
+            description: 'repeat',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -79,9 +205,9 @@ var config = {
             id: 'chapter-two',
             alignment: 'left',
             hidden: false,
-            title: 'Shell Shaker (2001)',
+            title: 'salvage the bones',
             image: './assets/firestone_farm.jpg',
-            description: 'Description of the Olinka people',
+            description: 'same stuff',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
@@ -100,7 +226,83 @@ var config = {
             hidden: false,
             title: 'Salvage the Bones (2011)',
             image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            description: 'same stuff repeat order',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-three',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Salvage the Bones (2011)',
+            image: './assets/color_purple_field.jpg',
+            description: 'same stuff final',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-three',
+            alignment: 'fully',
+            hidden: false,
+            title: 'general together slife',
+            image: './assets/color_purple_field.jpg',
+            description: 'same stuff',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-three',
+            alignment: 'fully',
+            hidden: false,
+            title: 'conclusion',
+            image: './assets/color_purple_field.jpg',
+            description: 'same stuff',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },    
+        {
+            id: 'chapter-three',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Salvage the Bones (2011)',
+            image: './assets/color_purple_field.jpg',
+            description: 'same stuff',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
@@ -113,5 +315,6 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         }
+    
     ]
 };
