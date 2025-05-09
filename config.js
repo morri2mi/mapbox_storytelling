@@ -56,9 +56,9 @@ var config = {
             hidden: false,
             title: 'The Color Purple (1982)',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'maybe have this part talk about the women purchasing items',
+            description: 'The light teal color shows the areas where there was economic transactions, and the lighter green dots represent every purchase made by a women. Many of the econmic trasactions are centered around a certain point. There were three main locations in this book, Africa, with the Olinka, London, Misissippi, and Memphis. While each main location had multiple transactions of different kinds, London and Africa had the most amount of women purchasing things. While Misissippi had women purchasing things, it was not as much as the other two locations. Memphis is the one location where there is no women purchasing anything.',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -82,7 +82,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple (1982)',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'slide 2: are there women being purchased from?',
+            description: 'Compared to the light green dots, the darker green ones are markers of where something has been purchased from someone. This grouping of data is much wider due to the fact that there was no women that were being bought from. All of the markers are either men or groups of people, which are still mainly men, that have been bought from.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
