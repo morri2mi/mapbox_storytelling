@@ -108,7 +108,7 @@ var config = {
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'When Janie married Tea Cake, she was already at a decent economic standing and had gotten there by her previous marriage to the mayor. As she spends her time with Tea Cake, she spends lots of her money on him, which makes other people certain that she loves him for him. It is an interesting shift, as usually spending a lot of money on someone can be considered superficial. By highlighting Janie using her higher economic status to "prove" her feelings for Tea Cake Hurston also shows how Janie uses her funds when she is not being tied down by someone or being forced to do things. Even though Jaine is at a decent economic standing before she meets Tea Cake and marries him, the place that they move too is well beneath Janies economic status. It is as if in order to allow Janie to keep her wealth and place in the economy, the area that she lives in must be far below her class. On the other hand, Janie does not use her wealth for selfish reasons and even plainly states that she loves Tea Cake for who he is. It is even more prominent that she does this when Tea Cake dies and she "has a strong vault built in the cemetary at West Palm Beach" (Hurston, 189). It was very clear that Janie loved Tea Cake for who he was and was not attempting to be stingy with her money to make sure to have enough for her, she was happy spending it on the people she loved and cared about.',
             location: {
-                center: [-80.054567, 26.719558, ],
+                center: [-80.054567, 26.719558],
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -208,7 +208,7 @@ var config = {
             image: './assets/firestone_farm.jpg',
             description: 'The amount of women purchasing something in this story is quite low compared to the other two stories.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
+                center: [-90.075619, 29.962486], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
