@@ -127,12 +127,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-two',
             alignment: 'right',
             hidden: false,
-            title: 'Their eyes were watching god',
+            title: 'Their Eyes were Watching God (1937)',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'repeat previous order of things for new book',
+            description: 'There are a lot more places where women are purchasing things in this dataset. The data points are all in Florida, as there was no out-of-state traveling. A majority of the data points are from women purchasing things, which is an increase from before.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -152,12 +152,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-two2',
             alignment: 'right',
             hidden: false,
             title: 'their eyes were watching god',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'repeat order of things',
+            description: 'There is not as many data points that mark if there are a lot of things being purchased from women. There seems to be less of women being purchased from then women being the one to do the purchasing.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -177,12 +177,13 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-two3',
             alignment: 'right',
             hidden: false,
             title: 'Theit eyes were watching god',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'repeat',
+            description: 'When Janie married Tea Cake, she was already at a decent economic standing and had gotten there by her previous marriage to the mayor. As she spends her time with Tea Cake, she spends lots of her money on him, which makes other people certain that she loves him for him. It is an interesting shift, as usually spending a lot of money on someone can be considered superficial. By highlighting Janie using her higher economic status to "prove" her feelings for Tea Cake Hurston also shows how Janie uses her funds when she is not being tied down by someone or being forced to do things. 
+            location: {
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
