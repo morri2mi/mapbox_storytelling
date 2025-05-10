@@ -58,7 +58,7 @@ var config = {
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'There are a lot of places where women are purchasing things in this dataset. The data points are all in Florida, as there was no out-of-state traveling. It is even likely that there are more data points that are from women then men for this story.',
             location: {
-                center: [28.618903, 81.385983],
+                center: [-81.386026, 28.618961],
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -83,7 +83,7 @@ var config = {
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'There is not as many data points that mark that things are being purchased by women. By comparison, there is a lot more points of women to be the one making the purchase compared to being the one that is being bought from. These points further highlight the difference between Jaine and the people around her in the Glades, as it is majority men who live there but since Janie is the richest she spends the most money.',
             location: {
-                center: [28.548017, 81.380202],
+                center: [-81.380202, 28.548017],
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -108,7 +108,7 @@ var config = {
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'When Janie married Tea Cake, she was already at a decent economic standing and had gotten there by her previous marriage to the mayor. As she spends her time with Tea Cake, she spends lots of her money on him, which makes other people certain that she loves him for him. It is an interesting shift, as usually spending a lot of money on someone can be considered superficial. By highlighting Janie using her higher economic status to "prove" her feelings for Tea Cake Hurston also shows how Janie uses her funds when she is not being tied down by someone or being forced to do things. Even though Jaine is at a decent economic standing before she meets Tea Cake and marries him, the place that they move too is well beneath Janies economic status. It is as if in order to allow Janie to keep her wealth and place in the economy, the area that she lives in must be far below her class. On the other hand, Janie does not use her wealth for selfish reasons and even plainly states that she loves Tea Cake for who he is. It is even more prominent that she does this when Tea Cake dies and she "has a strong vault built in the cemetary at West Palm Beach" (Hurston, 189). It was very clear that Janie loved Tea Cake for who he was and was not attempting to be stingy with her money to make sure to have enough for her, she was happy spending it on the people she loved and cared about.',
             location: {
-                center: [26.719558, 80.054567],
+                center: [-80.054567, 26.719558, ],
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -127,7 +127,7 @@ var config = {
         },
         {
             id: 'chapter-two1',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'The Color Purple (1982)',
             image: './assets/alice_walker_childhood_home.jpg',
@@ -152,13 +152,13 @@ var config = {
         },
         {
             id: 'chapter-two2',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'The Color Purple (1982)',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Compared to the light green dots, the darker green ones are markers of where something has been purchased from someone. This grouping of data is much wider due to the fact that there was no women that were being bought from. All of the markers are either men or groups of people, which are still mainly men, that have been bought from. An issue here with the way the data was collected is that there was no actual transaction that was happening, just a mention of Celie selling something.',
             location: {
-                center: [35.173171, 90.053264], 
+                center: [-90.051982, 35.158421], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -177,13 +177,13 @@ var config = {
         },
         {
             id: 'chapter-two3',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'The Color Purple (1982)',
             image: './assets/alice_walker_childhood_home.jpg',
             description:' While this book had many different female characters that were able to purchase things, due to how many were in London and Africa meant that they were being made most likely by Nettie, who had a lot more economic freedom then Celie. The only time that Celie even had a bit of economic freedom was when she was living in Memphis with Shug, Grady, and Squeak, all of the other times she had the money to do something, it was Mr. Alberts. Walker chooses the time where Celie is not around any man that can have sway over her to give Celie the chance to have her own economic status. In the beginning Celie spends Shugs money, but it is different then when Celie was spending Mr. Alberts money or her fathers because she is spending the money for herself and her own enjoyment. With the money, she buys the supplies to sew the pants she has gotten so good at making. The pants that she sews are so good that when Celie mentions to shug about getting a job, instead of forcing her to work for someone else or telling her not to work at all; Shug tells Celie that shes going to "put a few advertisments in the paper... and give you this diningroom for your factory" (Walker 212). It is the first time in the book that it has been stated that a women will be working for herself and actually going out and selling her product. It gives Celie a strong economic standing for her time in Memphis and highlights the power that Celie has when she is not being forced to do things by a man.',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-83.557692, 32.999763], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
