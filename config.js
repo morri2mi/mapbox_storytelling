@@ -58,7 +58,7 @@ var config = {
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'There are a lot of places where women are purchasing things in this dataset. The data points are all in Florida, as there was no out-of-state traveling. It is even likely that there are more data points that are from women then men for this story.',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [28.618903, 81.385983],
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -83,7 +83,7 @@ var config = {
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'There is not as many data points that mark that things are being purchased by women. By comparison, there is a lot more points of women to be the one making the purchase compared to being the one that is being bought from. These points further highlight the difference between Jaine and the people around her in the Glades, as it is majority men who live there but since Janie is the richest she spends the most money.',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [28.548017, 81.380202],
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -108,7 +108,7 @@ var config = {
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'When Janie married Tea Cake, she was already at a decent economic standing and had gotten there by her previous marriage to the mayor. As she spends her time with Tea Cake, she spends lots of her money on him, which makes other people certain that she loves him for him. It is an interesting shift, as usually spending a lot of money on someone can be considered superficial. By highlighting Janie using her higher economic status to "prove" her feelings for Tea Cake Hurston also shows how Janie uses her funds when she is not being tied down by someone or being forced to do things. Even though Jaine is at a decent economic standing before she meets Tea Cake and marries him, the place that they move too is well beneath Janies economic status. It is as if in order to allow Janie to keep her wealth and place in the economy, the area that she lives in must be far below her class. On the other hand, Janie does not use her wealth for selfish reasons and even plainly states that she loves Tea Cake for who he is. It is even more prominent that she does this when Tea Cake dies and she "has a strong vault built in the cemetary at West Palm Beach" (Hurston, 189). It was very clear that Janie loved Tea Cake for who he was and was not attempting to be stingy with her money to make sure to have enough for her, she was happy spending it on the people she loved and cared about.',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [26.719558, 80.054567],
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -263,7 +263,7 @@ var config = {
             hidden: false,
             title: 'Conclusion',
             image: './assets/color_purple_field.jpg',
-            description: 'Each of the three stories that were explored showed womens economic status in different ways. The oldest of the books, "As Their Eyes were Watching God" fully placed Janie at a high economic standing to begin with and kept her there throughout the book. Although, even if Janie was the richest person in the Glades, peoples attitudes towards her were hostile and were unsure of her character. It felt as if Janies wealth never changed and it defined a lot about her to other people, even if she was living the same life as them. The second oldest book, "The Color Purple" highlighted the difference between buying things for yourself versus buying things for yourself using other peoples money. As soon as Celie was able to purchase things for herself with money from someone she cared about and even her own money, she was excited about doing things and allowed herself to find a place in the economy. The third and youngest book, "Salvage the Bones" took a different approach to show womens change in economic standing. In the other two books, both Janie and Celie had their wealth connected to a man in one way or another, in either a positive or negative way. "Salvage the Bones" put lots of people in the same economic standing, but the women were not forced to do anything by a man who controlled their finances. Since all three books were written by women, I belive that it makes it easier to compare how their women characters are treated. There is most likely no prejudice towards how a women should "rightfully" act by these authors, each of the main characters that were created had life and personality outside of their economic status. Even so, the way that womens economic power has shifted is evident. In "Their Eyes were Watching God" most of Janies status and wealth came from her relationship with a man, and she spent a lot of her wealth on a man to show her love. 
+            description: 'Each of the three stories that were explored showed womens economic status in different ways. The oldest of the books, "As Their Eyes were Watching God" fully placed Janie at a high economic standing to begin with and kept her there throughout the book. Although, even if Janie was the richest person in the Glades, peoples attitudes towards her were hostile and were unsure of her character. It felt as if Janies wealth never changed and it defined a lot about her to other people, even if she was living the same life as them. The second oldest book, "The Color Purple" highlighted the difference between buying things for yourself versus buying things for yourself using other peoples money. As soon as Celie was able to purchase things for herself with money from someone she cared about and even her own money, she was excited about doing things and allowed herself to find a place in the economy. The third and youngest book, "Salvage the Bones" took a different approach to show womens change in economic standing. In the other two books, both Janie and Celie had their wealth connected to a man in one way or another, in either a positive or negative way. "Salvage the Bones" put lots of people in the same economic standing, but the women were not forced to do anything by a man who controlled their finances. Since all three books were written by women, I belive that it makes it easier to compare how their women characters are treated. There is most likely no prejudice towards how a women should "rightfully" act by these authors, each of the main characters that were created had life and personality outside of their economic status. Even so, the way that womens economic power has shifted is evident. In "Their Eyes were Watching God" most of Janies status and wealth came from her relationship with a man, and she spent a lot of her wealth on a man to show her love. In "The Color Purple" all of Celies wealth at the beginning was tied to a man, she had no say in anything; however, once she was able to get away from Mr. Albert and live with Shug, she was able to gain her own wealth and do whatever she wanted with it. In "Salvage the Bones" the women that have the money to do transactions are in control of it from the start. As we get closer to modern day, a womens economic status becomes something that is familiar to us. There is a shift from womens wealth coming from a man and being looked down upon for it, and assuming that she is being used for her money. To a women that has everything controlled by a man until she can get away and use her money for what she wants too. And finally, coming to a place where a women has the same opportunites to sell and buy things with her own money.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
@@ -276,44 +276,5 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-        {
-            id: 'chapter-three',
-            alignment: 'fully',
-            hidden: false,
-            title: 'conclusion',
-            image: './assets/color_purple_field.jpg',
-            description: 'same stuff',
-            location: {
-                center: [-41.47212410646295, 34.781162343274076], 
-                zoom: 3,
-                pitch: 30,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },    
-        {
-            id: 'chapter-three',
-            alignment: 'fully',
-            hidden: false,
-            title: 'Salvage the Bones (2011)',
-            image: './assets/color_purple_field.jpg',
-            description: 'same stuff',
-            location: {
-                center: [-41.47212410646295, 34.781162343274076], 
-                zoom: 3,
-                pitch: 30,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        }
-    
     ]
-};
+}
