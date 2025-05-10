@@ -201,12 +201,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-two',
+            id: 'chapter-three',
             alignment: 'left',
             hidden: false,
-            title: 'salvage the bones',
+            title: 'Salvage the Bones (2011)',
             image: './assets/firestone_farm.jpg',
-            description: 'same stuff',
+            description: 'The amount of women purchasing something in this story is quite low compared to the other two stories.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
@@ -221,11 +221,30 @@ var config = {
         },
         {
             id: 'chapter-three',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: 'Salvage the Bones (2011)',
             image: './assets/color_purple_field.jpg',
-            description: 'same stuff repeat order',
+            description: 'While there is a small amount of data that marks what women purchased, there is an even smaller amount of data points that marked that women were the ones being purchased from.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-three',
+            alignment: 'left',
+            hidden: false,
+            title: 'Salvage the Bones (2011)',
+            image: './assets/color_purple_field.jpg',
+            description: 'Even though this is the most recent story that has been published out of the books explored, it has the least amount of women transactions. While that is the case, it is also the only one that has a similar amouunt of women being purchased from and being the purchaser. Part of this is due to the fact that Esch and her family are not that well off to begin with, but the whole town is in a similar spot. Since Esch is the only women in her family, it makes it difficult to see all of the impacts that she has in the economy. Although it may be hard to pinpoint what Esch did, this is still the only book to have a somewhat even split between the women buying and the women that are being bought from. One of the reasons that the economy is not as prevelent in this story is that Ward wrote it for the people that had survived hurricane Katrina, the people that had been in similar situations. It feels disengenious to make an environmental disaster about a enconomic disaster as well, Ward even writes that the fairly well-off white people "probably took everything when they evacuated"(Ward, 209). If Esch and her family had enough money, they would not be sticking around and would have evacuated to a safer place by this point. Even though there is a lower amount of women transaction data points, it is fair to say that the women who did bought and sold those things did so for themselves. If the money was not theirs to begin with, it was almost always given as a gift or reward of some kind, so when something was purchased using it, the women were using it for themselves.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
@@ -242,28 +261,9 @@ var config = {
             id: 'chapter-three',
             alignment: 'fully',
             hidden: false,
-            title: 'Salvage the Bones (2011)',
+            title: 'Conclusion',
             image: './assets/color_purple_field.jpg',
-            description: 'same stuff final',
-            location: {
-                center: [-41.47212410646295, 34.781162343274076], 
-                zoom: 3,
-                pitch: 30,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: 'chapter-three',
-            alignment: 'fully',
-            hidden: false,
-            title: 'general together slife',
-            image: './assets/color_purple_field.jpg',
-            description: 'same stuff',
+            description: 'Each of the three stories that were explored showed womens economic status in different ways. The oldest of the books, "As Their Eyes were Watching God" fully placed Janie at a high economic standing to begin with and kept her there throughout the book. Although, even if Janie was the richest person in the Glades, peoples attitudes towards her were hostile and were unsure of her character. It felt as if Janies wealth never changed and it defined a lot about her to other people, even if she was living the same life as them. The second oldest book, "The Color Purple" highlighted the difference between buying things for yourself versus buying things for yourself using other peoples money. As soon as Celie was able to purchase things for herself with money from someone she cared about and even her own money, she was excited about doing things and allowed herself to find a place in the economy. The third and youngest book, "Salvage the Bones" took a different approach to show womens change in economic standing. In the other two books, both Janie and Celie had their wealth connected to a man in one way or another, in either a positive or negative way. "Salvage the Bones" put lots of people in the same economic standing, but the women were not forced to do anything by a man who controlled their finances. Since all three books were written by women, I belive that it makes it easier to compare how their women characters are treated. There is most likely no prejudice towards how a women should "rightfully" act by these authors, each of the main characters that were created had life and personality outside of their economic status. Even so, the way that womens economic power has shifted is evident. In "Their Eyes were Watching God" most of Janies status and wealth came from her relationship with a man, and she spent a lot of her wealth on a man to show her love. 
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
